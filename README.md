@@ -1,64 +1,89 @@
-# AI_ML
- Machine Learning &amp; Deep Learning Projects This repository contains end-to-end Machine Learning and Deep Learning projects with Jupyter notebooks, covering data preprocessing, model building, evaluation, and predictions
-# AI_ML
-📊 Machine Learning &amp; Deep Learning Projects  This repository contains end-to-end Machine Learning and Deep Learning projects with Jupyter notebooks, covering data preprocessing, model building, evaluation, and predictions
-📁 Projects Included
-1. 🩺 Breast Cancer Prediction (Binary Classification)
+🚀 AI & ML Portfolio – Jagdish Maheta
 
-Dataset: Breast Cancer Wisconsin Dataset
+Welcome to my AI, Machine Learning, Deep Learning, SQL & Power BI Portfolio.
+This repository serves as the central hub for all my data projects, showcasing my skills in analytics, machine learning, and business intelligence.
 
-Goal: Predict whether a tumor is malignant or benign.
+📂 Projects
+🔹 Machine Learning & Deep Learning
 
-Techniques:
+Breast Cancer Classification (ANN)
 
-Data preprocessing & EDA
+Built an Artificial Neural Network (ANN) to classify tumors as Malignant or Benign using the Breast Cancer Wisconsin dataset.
 
-Feature scaling
+Techniques: Data preprocessing, ANN model building, evaluation.
 
-Artificial Neural Network (ANN)
+CIFAR-10 Image Classification (CNN)
 
-Model evaluation (accuracy, confusion matrix)
+Implemented a Convolutional Neural Network (CNN) for image classification on the CIFAR-10 dataset.
 
-2. 🖼️ CIFAR-10 Image Classification
+Techniques: CNN, Regularization, Data Augmentation.
 
-Dataset: CIFAR-10 (60,000 images, 10 classes)
+Flight Fare Prediction (Regression with ANN)
 
-Goal: Classify images into categories such as airplane, car, bird, cat, etc.
+Predicted flight fares based on Airline, Source, Destination, Stops, and Date features.
 
-Techniques:
+Techniques: Feature Engineering, ANN Regression, Evaluation Metrics.
 
-Convolutional Neural Network (CNN)
+Machine Learning Projects Collection
 
-Regularization & Dropout
+A collection of multiple ML projects:
 
-Accuracy optimization with batch normalization
+Regression Models (House Prices, Salary Prediction, etc.)
 
-Evaluation of model performance
+Classification Models (Iris, Titanic, Customer Churn)
 
-3. ✈️ Flight Fare Prediction
+Clustering Models (K-Means, Hierarchical Clustering)
 
-Dataset: Flight price dataset
+Tools: Scikit-learn, Pandas, Matplotlib, Seaborn
 
-Goal: Predict flight fares based on airline, source, destination, stops, and other factors.
+🔹 Data Analytics & BI
 
-Techniques:
+Zomato Restaurant Dashboard (Power BI)
 
-Data cleaning & feature engineering
+Interactive dashboard analyzing restaurant ratings, cuisines, and price distributions.
 
-Label Encoding & One-Hot Encoding
+Tools: Excel, Power BI, DAX, Data Cleaning.
 
-ANN for regression
+UPI Transaction Dashboard (Power BI)
 
-Model saving (.h5) for future predictions
+Designed a Power BI dashboard to visualize digital payments and UPI transaction trends.
 
-⚙️ Technologies Used
+Insights into transaction growth, volume, banks, and customer behavior.
 
-Python 🐍
+Tools: Power BI, DAX, Data Transformation.
 
-NumPy, Pandas (Data preprocessing)
+🔹 SQL Projects
 
-Matplotlib, Seaborn (Visualization)
+SQL Data Analysis Repository
 
-Scikit-Learn (Preprocessing, evaluation)
+A collection of SQL projects covering data cleaning, analysis, and reporting.
 
-TensorFlow / Keras (ANN & CNN models)
+Key projects include:
+
+Sales Analysis (Monthly revenue, top products, regional performance)
+
+E-commerce Orders Analysis (Customer segmentation, purchase behavior)
+
+Employee & HR Database Analysis (Attrition trends, salary distribution)
+
+Bank Transactions Analysis (Fraud detection patterns, customer spending)
+
+Focus Areas: Joins, Subqueries, Window Functions, Aggregations, CTEs
+
+🛠️ Tech Stack
+
+Languages: Python, SQL
+
+Libraries: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, TensorFlow, Keras
+
+BI Tools: Power BI, Excel
+
+Version Control: Git, GitHub
+
+📬 Contact
+
+Name: Jagdish Maheta
+
+LinkedIn: linkedin.com/in/jagdish-maheta-1a3ab6353
+
+GitHub: github.com/jagdishMaheta2003-007
